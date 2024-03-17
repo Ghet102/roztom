@@ -1,29 +1,29 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"",
+"GBLCZAA4U6MF6NSHPQ4M6B4HYA6PRGONXCIX3ZIAYZEWMADXF3XIG2N6",
 ]
 
 [DOCUMENTATION]
-ORG_NAME=""
-ORG_URL=""
-ORG_DESCRIPTION=""
-ORG_LOGO=""
+ORG_NAME="Space Foundation"
+ORG_URL="https://xlumen.org"
+ORG_DESCRIPTION="A cutting-edge cryptocurrency, where anonymity meets speed. Its revolutionary blockchain technology powers instant, secure transactions, promising a decentralized future without boundaries. Dive into the space, where finance meets freedom."
+ORG_LOGO="https://i.ibb.co/DQ9c2jJ/DALL-E-2024-03-17-23-49-15-Envision-a-scene-where-the-cosmos-and-cryptocurrency-merge-into-one-a-daz.webp"
 
 [[PRINCIPALS]]
-name=""
+name="Jason Albrite"
 
 
 [[CURRENCIES]]
-code=""
+code="NBG"
 status="live"
 display_decimals=2
-issuer=""
+issuer="GBLCZAA4U6MF6NSHPQ4M6B4HYA6PRGONXCIX3ZIAYZEWMADXF3XIG2N6"
 anchor_asset_type="crypto"
-name=""
-desc=""
-image=""
-fixed_number=
-max_number=
+name="NebulaGain"
+desc="With a tagline that encapsulates its core values and benefits Nebula Gain - Your Path to Stellar Returns This tagline conveys the idea that by investing in Nebula Gain, users are embarking on a journey towards achieving excellent returns and financial rewards. It ties in well with the stellar program context, suggesting that the token paves the way for investors to reach new heights of financial success within the vast and dynamic space of the nebula. This tagline aims to evoke a sense of aspiration, growth, and opportunity for those considering engaging with the Nebula Gain token."
+image="https://i.ibb.co/GcjFYpV/png-backround.jpg"
+fixed_number=5000000
+max_number=5000000
 is_unlimited=false
-# was issued using the open and inclusive Stellar blockchain network.
+# NebulaGain was issued using the open and inclusive Stellar blockchain network.
