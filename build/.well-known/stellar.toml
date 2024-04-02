@@ -1,29 +1,29 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"GBLCZAA4U6MF6NSHPQ4M6B4HYA6PRGONXCIX3ZIAYZEWMADXF3XIG2N6",
+"GDYVVNIGVKY6R4ADVFFLR6O4KQBIOTQA6ZTMVU25WXM5XD5QYEOBX6SN",
 ]
 
 [DOCUMENTATION]
-ORG_NAME="Space Foundation"
-ORG_URL="https://xlumen.org"
-ORG_DESCRIPTION="A cutting-edge cryptocurrency, where anonymity meets speed. Its revolutionary blockchain technology powers instant, secure transactions, promising a decentralized future without boundaries. Dive into the space, where finance meets freedom."
-ORG_LOGO="https://i.ibb.co/DQ9c2jJ/DALL-E-2024-03-17-23-49-15-Envision-a-scene-where-the-cosmos-and-cryptocurrency-merge-into-one-a-daz.webp"
+ORG_NAME="Air Canada"
+ORG_URL="https://airc-stellar.org"
+ORG_DESCRIPTION="Air Canada is Canada's largest airline, serving domestic and international routes with a modern fleet and a focus on passenger comfort."
+ORG_LOGO="https://i.ibb.co/6Zs8k4m/Air-Canada-Icon.png"
 
 [[PRINCIPALS]]
-name="Jason Albrite"
+name=""
 
 
 [[CURRENCIES]]
-code="NBG"
+code="AIRC"
 status="live"
 display_decimals=2
-issuer="GBLCZAA4U6MF6NSHPQ4M6B4HYA6PRGONXCIX3ZIAYZEWMADXF3XIG2N6"
+issuer="GDYVVNIGVKY6R4ADVFFLR6O4KQBIOTQA6ZTMVU25WXM5XD5QYEOBX6SN"
 anchor_asset_type="crypto"
-name="NebulaGain"
-desc="With a tagline that encapsulates its core values and benefits Nebula Gain - Your Path to Stellar Returns This tagline conveys the idea that by investing in Nebula Gain, users are embarking on a journey towards achieving excellent returns and financial rewards. It ties in well with the stellar program context, suggesting that the token paves the way for investors to reach new heights of financial success within the vast and dynamic space of the nebula. This tagline aims to evoke a sense of aspiration, growth, and opportunity for those considering engaging with the Nebula Gain token."
-image="https://i.ibb.co/GcjFYpV/png-backround.jpg"
-fixed_number=5000000
-max_number=5000000
+name="Air Canada"
+desc="Air Canada cryptocurrency is a digital asset tied to the aviation industry, offering rewards and payments for travel-related services, with its value influenced by the company's financial performance and airline industry trends."
+image="https://i.ibb.co/6Zs8k4m/Air-Canada-Icon.png"
+fixed_number=8500000
+max_number=8500000
 is_unlimited=false
-# NebulaGain was issued using the open and inclusive Stellar blockchain network.
+# Air Canada was issued using the open and inclusive Stellar blockchain network.
