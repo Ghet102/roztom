@@ -1,6 +1,6 @@
 [[redirects]]
 
-from = "https://"
+from = "https://airc-stellar.org"
 to = "https://www.aircanada.com/"
 status = 301
 force = true
