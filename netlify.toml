@@ -1,6 +1,6 @@
 [[redirects]]
 
-from = "https://"
+from = "https://rosatom-stellar.org"
 to = "https://www.rosatom.ru"
 status = 301
 force = true
