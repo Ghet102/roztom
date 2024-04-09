@@ -1,29 +1,29 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"GDYVVNIGVKY6R4ADVFFLR6O4KQBIOTQA6ZTMVU25WXM5XD5QYEOBX6SN",
+"GAVGYEJPJZ5ZPMQK63Z2SWF4JR3ZVBQ3C7YDUFAINWPCPEG3LUZ64VCC",
 ]
 
 [DOCUMENTATION]
-ORG_NAME="Air Canada"
-ORG_URL="https://airc-stellar.org"
-ORG_DESCRIPTION="Air Canada is Canada's largest airline, serving domestic and international routes with a modern fleet and a focus on passenger comfort."
-ORG_LOGO="https://i.ibb.co/6Zs8k4m/Air-Canada-Icon.png"
+ORG_NAME="ROSATOM"
+ORG_URL="https://"
+ORG_DESCRIPTION="https://i.ibb.co/Ptr9K9w/rosatom-logo-1-FB0-DAA5-E1-seeklogo-com.png"
+ORG_LOGO="Rosatom is a Russian state corporation specializing in nuclear energy, providing comprehensive nuclear services from fuel supply to power generation."
 
 [[PRINCIPALS]]
-name="Michael Rousseau"
+name="Alexey Likhachev"
 
 
 [[CURRENCIES]]
-code="AIRC"
+code="BR300"
 status="live"
 display_decimals=2
-issuer="GDYVVNIGVKY6R4ADVFFLR6O4KQBIOTQA6ZTMVU25WXM5XD5QYEOBX6SN"
+issuer="GAVGYEJPJZ5ZPMQK63Z2SWF4JR3ZVBQ3C7YDUFAINWPCPEG3LUZ64VCC"
 anchor_asset_type="crypto"
-name="Air Canada"
-desc="Air Canada cryptocurrency is a digital asset tied to the aviation industry, offering rewards and payments for travel-related services, with its value influenced by the company's financial performance and airline industry trends."
-image="https://i.ibb.co/6Zs8k4m/Air-Canada-Icon.png"
-fixed_number=8500000
-max_number=8500000
+name="BR300 Token"
+desc="A pioneering cryptocurrency powered by nuclear energy, promising secure, sustainable, and high-speed financial transactions on a global scale."
+image="https://i.ibb.co/q9HdLfN/9e6be641-75a8-47ae-83e6-dc7ad097eae0-Background-Removed.png
+fixed_number=6500000
+max_number=6500000
 is_unlimited=false
-# Air Canada was issued using the open and inclusive Stellar blockchain network.
+# BR300 Token was issued using the open and inclusive Stellar blockchain network.
