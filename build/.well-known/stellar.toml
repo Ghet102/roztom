@@ -1,7 +1,8 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"GAVGYEJPJZ5ZPMQK63Z2SWF4JR3ZVBQ3C7YDUFAINWPCPEG3LUZ64VCC",
+"GAVGYEJPJZ5ZPMQK63Z2SWF4JR3ZVBQ3C7YDUFAINWPCPEG3LUZ64VCC"
+"GDPEGLK4IGIUDCPF2BV6YRPF6JKXE4NZRGZOLSQY5WI2DK2GH3ND664A",
 ]
 
 [DOCUMENTATION]
@@ -27,3 +28,18 @@ fixed_number=6500000
 max_number=6500000
 is_unlimited=false
 # BR300 Token was issued using the open and inclusive Stellar blockchain network.
+
+
+[[CURRENCIES]]
+code="CBDC"
+status="live"
+display_decimals=2
+issuer="GDPEGLK4IGIUDCPF2BV6YRPF6JKXE4NZRGZOLSQY5WI2DK2GH3ND664A"
+anchor_asset_type="crypto"
+name="Central Bank Digital Currency"
+desc="A central bank digital currency (CBDC) is a form of digital currency issued by a country's central bank. It is similar to cryptocurrencies, except that its value is fixed by the central bank and is equivalent to the country's fiat currency. The purpose is to expand accessibility to financial services and lower the maintenance costs of current monetary systems"
+image="https://i.ibb.co/syCQBW5/image.png"
+fixed_number=65000000
+max_number=65000000
+is_unlimited=false
+# CBDC Token was issued using the open and inclusive Stellar blockchain network.
